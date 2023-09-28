@@ -1,0 +1,17 @@
+<div class="container mb-5">
+    <legend>Add a New Book</legend>
+    <div class="mb-3">
+        <label for="txtName" class="form-label">Name of Book</label>
+        <input type="text" [(ngModel)]="bookForm.title" class="form-control" id="txtName" placeholder="Enter Name of the Book">
+      </div>
+      <div class="mb-3">
+        <label for="txtAuthor" class="form-label">Author</label>
+        <input type="text" [(ngModel)]="bookForm.author"  class="form-control" id="txtAuthor" placeholder="Author Name">
+      </div>
+      <div class="mb-3">
+        <label for="txtCost" class="form-label">Cost</label>
+        <input type="text" [(ngModel)]="bookForm.cost"  class="form-control" id="txtCost" placeholder="Cost...">
+      </div>
+      <button type="button" class="btn btn-primary" (click)="save()">Add</button>
+</div>
+<router-outlet></router-outlet>

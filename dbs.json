@@ -1,0 +1,79 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Poter",
+      "author": "J.K Rowling",
+      "cost": 300
+    },
+    {
+      "id": 8,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert ",
+      "cost": "300"
+    },
+    {
+      "id": 9,
+      "title": "Anna Belle",
+      "author": "Jenny Condrel",
+      "cost": "80$"
+    },
+    {
+      "id": 10,
+      "title": "Anna Belle",
+      "author": "Jenny Condrel",
+      "cost": "80"
+    },
+    {
+      "id": 17,
+      "title": "Blueberry",
+      "author": "Jenny Condrel",
+      "cost": "77"
+    },
+    {
+      "id": 18,
+      "title": "The Philosopher's Stone",
+      "author": "Jimmy Andrew",
+      "cost": "50"
+    },
+    {
+      "id": 22,
+      "title": "Gramy's Abid",
+      "author": "Coterl",
+      "cost": "120"
+    },
+    {
+      "id": 23,
+      "title": "",
+      "author": "",
+      "cost": 0
+    }
+  ],
+  "Fruits": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Grapes",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "name": "Guava",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Papaya",
+      "price": 60
+    }
+  ]
+}
